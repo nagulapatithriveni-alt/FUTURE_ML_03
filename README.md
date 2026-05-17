@@ -249,15 +249,15 @@ The system is evaluated as a binary classification task:
 
 ## 🧑‍💻 Author
 
-**[Your Name]**  
+## Author
+
+**Thriveni Nagulapati**  
 Machine Learning Intern  
-📧 your.email@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-🐙 [GitHub](https://github.com/yourusername)
 
----
-
-## 📄 License
+📧 nagulapatithriveni@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/thriveni-nagulapati-838405285  
+🐙 GitHub: https://github.com/nagulapatithriveni-alt                                                                                                     
+ ## 📄 License
 
 This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
 
