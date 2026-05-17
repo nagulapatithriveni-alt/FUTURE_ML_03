@@ -1,0 +1,11 @@
+rank,candidate_name,experience,skill_match_pct,tfidf_score,composite_score,recommendation,skill_gap
+1,Aarav Shah,2,88.89,22.07,55.48,🟡 Recommended,Statistics
+2,Divya Sharma,4,66.67,16.92,41.8,🟠 Consider,"Machine Learning, Numpy, Statistics"
+3,Arjun Nair,0,66.67,8.7,37.68,🟠 Consider,"Excel, Power BI, Tableau"
+4,Vikram Singh,2,33.33,5.49,19.41,🔴 Not Recommended,"Excel, Numpy, Pandas, Power BI, Sql, Tableau"
+5,Karan Joshi,2,33.33,4.22,18.77,🔴 Not Recommended,"Excel, Numpy, Pandas, Power BI, Statistics, Tableau"
+6,Priya Mehta,1,22.22,6.15,14.18,🔴 Not Recommended,"Excel, Numpy, Pandas, Power BI, Sql, Statistics, Tableau"
+7,Rahul Verma,3,11.11,1.27,6.19,🔴 Not Recommended,"Excel, Machine Learning, Numpy, Pandas, Power BI, Sql, Statistics, Tableau"
+8,Ananya Iyer,1,11.11,1.11,6.11,🔴 Not Recommended,"Excel, Machine Learning, Numpy, Pandas, Power BI, Sql, Statistics, Tableau"
+9,Sneha Patil,2,11.11,0.64,5.88,🔴 Not Recommended,"Excel, Machine Learning, Numpy, Pandas, Power BI, Sql, Statistics, Tableau"
+10,Neha Gupta,3,0.0,0.89,0.44,🔴 Not Recommended,"Excel, Machine Learning, Numpy, Pandas, Power BI, Python, Sql, Statistics, Tableau"
